@@ -1,0 +1,144 @@
+** DONE Tableau Server user management
+   CLOSED: [2017-01-09 lu. 12:33]
+** DONE Separación de ficheros sh por funcionalidad
+   CLOSED: [2017-01-15 do. 12:33]
+** DONE Proceso extracción datos excel valuations 
+   CLOSED: [2017-02-09 lu. 12:35]
+** DONE Proceso de contactos de Real Estate
+   CLOSED: [2017-02-11 sá. 12:36]
+** DONE Python proceso Remax scraping Roberto
+   CLOSED: [2017-02-25 sá. 12:37]
+** DONE Nuevas combinaciones de palabras LABELS
+   CLOSED: [2017-03-09 lu. 12:38]
+** DONE Lanzamiento Proceso Broker Leads
+   CLOSED: [2017-04-09 lu. 12:39]
+** DONE Formación Rita y Fran en Tableau Basics
+   CLOSED: [2017-04-12 mi. 12:39]
+** DONE Carga de datos y Dataviz All assets Valuations
+   CLOSED: [2017-04-15 sá. 12:40]
+** DONE Dockerfile inicial
+   CLOSED: [2017-04-20 ju. 12:41]
+** DONE Carga de las extracciones de Valoraciones al Valuations Map
+   CLOSED: [2017-05-09 lu. 12:41]
+** DONE Parsing de PDF pra David, Nefer y Anxo
+   CLOSED: [2017-05-14 do. 12:42]
+** DONE Geolocalización de MIS assets para Valuations Map
+   CLOSED: [2017-05-18 ju. 12:43]
+** DONE Esmisc: Geocode_cadastral to_number
+   CLOSED: [2017-05-30 ma. 12:44]
+** DONE Script for fresh Rstudio installation
+   CLOSED: [2017-05-31 mi. 12:44]
+** DONE Geocoding Remax
+   CLOSED: [2017-06-01 ju. 12:45]
+** DONE Correcciones Geo Banif RE
+   CLOSED: [2017-06-02 vi. 12:45]
+** DONE Mapas Valuations all/Remax
+   CLOSED: [2017-06-05 lu. 12:46]
+** DONE Nuevas combinaciones de LABELS
+   CLOSED: [2017-06-07 mi. 12:47]
+** DONE Detección de LABELS en cabecera documentos automaticos
+   CLOSED: [2017-06-09 vi. 12:48]
+** DONE Conexion con Ruiz-Castell procuradores externos
+   CLOSED: [2017-06-12 lu. 12:49]
+** DONE TAG y Granada en Automático
+   CLOSED: [2017-06-15 ju. 12:49]
+** DONE Revisión del grado de precisión coordenadas Remax
+   CLOSED: [2017-06-16 vi. 12:50]
+** DONE TAG Granada generar reporte automático
+   CLOSED: [2017-06-19 lu. 12:51]
+** DONE Importación datos de Tercero B
+   CLOSED: [2017-06-21 mi. 12:52]
+** DONE Geolocalización datos Tercero B
+   CLOSED: [2017-06-23 vi. 12:52]
+** DONE Tableau Mapas Tercero B + Valuations
+   CLOSED: [2017-06-26 lu. 12:53]
+** DONE Volcado de Remax a Sales database
+   CLOSED: [2017-06-27 ma. 12:54]
+** DONE Carga de datos Century21
+   CLOSED: [2017-07-03 lu. 12:57]
+** DONE Tableau Mapas Portugal y Century21
+   CLOSED: [2017-07-06 ju. 12:57]
+** DONE Adaptación proceso Broker Leads a HAMS
+   CLOSED: [2017-07-10 lu. 12:58]
+** DONE Nuevos portfolios en Broker Leads: Babieca y Pirene
+   CLOSED: [2017-07-11 ma. 12:58]
+** DONE Nuevo remitente Broker Leads: Idealista 
+   CLOSED: [2017-07-14 vi. 12:59]
+** DONE Correcciones Report Tableau Loan MARS
+   CLOSED: [2017-07-17 lu. 13:01]
+** DONE Mejoras en el log de Broker Leads
+   CLOSED: [2017-07-20 ju. 13:01]
+** DONE Desactivación proceso en Granada TAG
+   CLOSED: [2017-07-25 ma. 13:02]
+** DONE 17 tipos de correo en Broker Leads
+   CLOSED: [2017-08-04 vi. 13:02]
+** DONE Correcciones Broker Leads HAMS
+   CLOSED: [2017-08-08 ma. 13:03]
+** DONE Conversión Doc to PDF en Tramuntana
+   CLOSED: [2017-08-10 ju. 13:03] 
+** DONE Clustering Sochi Debtors
+   CLOSED: [2017-08-14 lu. 13:04]
+** DONE Series Temporales en Sochi Collections
+   CLOSED: [2017-08-16 mi. 13:05]
+** DONE Actualización manual de operaciones Data Science
+   CLOSED: [2017-08-18 vi. 13:05]
+** DONE RE Marketing Report convertido a Tableau Dashboard
+   CLOSED: [2017-08-21 lu. 13:06]
+** DONE Snapshot lannisport
+   CLOSED: [2017-08-18 vi. 13:07]
+** DONE Forecasting automatico portfolios lannisport
+   CLOSED: [2017-08-25 vi. 13:08]
+** DONE Nombre por defecto en Leads
+   CLOSED: [2017-08-31 ju. 13:09]
+** DONE Correcciones encoding Ventas Portugal cp1252
+   CLOSED: [2017-09-04 lu. 13:09]
+** DONE Correcciones teléfono en Brokerleads remitente Idealista
+   CLOSED: [2017-09-11 lu. 13:10]
+** DONE Implementada autenticación Shiny con Nginx
+   CLOSED: [2017-09-15 vi. 13:10]
+** DONE Automatización de carga: All assets Portugal Remax Tableau
+   CLOSED: [2017-09-17 do. 13:11]
+** DONE Nuevo portfolio Broker Leads HAMS: Kaplan
+   CLOSED: [2017-10-10 ma. 13:12]
+** DONE Todos los assets de HAMS a Tableau
+   CLOSED: [2017-10-12 ju. 13:13]
+** DONE Nuevo portfolio HAMS de Broker Leads: Sevilla (se olvidaron de avisar)
+   CLOSED: [2017-10-17 ma. 13:14]
+** DONE Más de 8 mil geolocalizaciones en MIS
+   CLOSED: [2017-10-18 mi. 13:15]
+** DONE Carga de datos Active Directory Dashboard Tableau Telefonía Tomás Suarez
+   CLOSED: [2017-10-20 vi. 13:16]
+** DONE Gráficos para la Web
+   CLOSED: [2017-10-23 lu. 13:16]
+** DONE Análisis de Encuesta Clima Laboral RRHH
+   CLOSED: [2017-10-25 mi. 13:17]
+** DONE Nuevo remitente Broker Leads: Amarín@hipoges.com
+   CLOSED: [2017-10-30 lu. 13:18]
+** DONE Conversión PDF Javier Ruiz a Texto
+   CLOSED: [2017-11-02 ju. 13:18]
+** DONE Automatización gráficos de la Web
+   CLOSED: [2017-11-06 lu. 13:30]
+** DONE Graficos por departamento y colores corporativos Encuesta de Clima Laboral
+   CLOSED: [2017-11-13 lu. 13:30]
+** DONE David Benitez PDF Santander
+   CLOSED: [2017-11-15 mi. 13:32]
+** DONE Reordenación items heatmap, traducción leyendas y nube 2 Encuesta Clima Laboral
+   CLOSED: [2017-11-17 vi. 13:35]
+** DONE Informe de Riesgos Corporativos Auditoría Tableau Server
+   CLOSED: [2017-11-21 ma. 13:36]
+** DONE Tableau Dashboards Deutsche Bank, Tribeca, Voyager
+   CLOSED: [2017-11-27 lu. 13:37]
+** DONE KISS Carga all Valuations map
+   CLOSED: [2017-11-30 ju. 13:38]
+** DONE Renovación licencias Tableau
+   CLOSED: [2017-12-04 lu. 13:39]
+** DONE Actualización dashboard telefonía 3 meses
+   CLOSED: [2017-12-07 ju. 13:39]
+** DONE Dashboard Cerberus para Nuno RE
+   CLOSED: [2017-12-11 lu. 13:40]
+** DONE Actualización RE Marketing Report con datos de MIS
+   CLOSED: [2017-12-13 mi. 13:40]
+** DONE Tableau Dashboard San Siro
+   CLOSED: [2017-12-18 lu. 13:41]
+** DONE Snapshot lannisport
+   CLOSED: [2017-12-12 lu. 13:41]
