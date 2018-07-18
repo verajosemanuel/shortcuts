@@ -104,6 +104,29 @@
    CLOSED: [2018-07-10 ma. 08:44]
 ** DONE Spacemacs + ESS
    CLOSED: [2018-07-13 vi. 08:45]
+** DONE Lectura automatica de subastas Martinsa Fadesa 
+   CLOSED: [2018-07-16 lu. 15:05]
+*** DONE Carga de sesión
+    CLOSED: [2018-07-13 vi. 12:19]
+*** DONE Lecturas de content en response
+    CLOSED: [2018-07-13 vi. 12:19]
+*** DONE extracción de campos
+    CLOSED: [2018-07-13 vi. 12:19]
+*** DONE guardado en disco
+    CLOSED: [2018-07-13 vi. 14:18]
+*** DONE mostrar en web
+    CLOSED: [2018-07-16 lu. 15:06]
+*** DONE comparación con anterior
+    CLOSED: [2018-07-18 mi. 11:31]
+*** DONE Filtrado de pujas detectadas
+    CLOSED: [2018-07-18 mi. 11:32]
+*** DONE Link de acceso a la página de puja
+    CLOSED: [2018-07-18 mi. 11:34]
+*** DONE Totalizados de pujas por cada assets
+    CLOSED: [2018-07-18 mi. 14:38]
+*** TODO envio de email
+
+** TODO Check SQL for geocoded courts (monika)
 ** TODO Plataforma para Redes Neuronales
 ** TODO Modelos Predictivo
-** WAITING 
+
