@@ -124,8 +124,14 @@
     CLOSED: [2018-07-18 mi. 11:34]
 *** DONE Totalizados de pujas por cada assets
     CLOSED: [2018-07-18 mi. 14:38]
-*** TODO envio de email
-
+*** DONE envio de email a claudio, Pablo y Juan
+    CLOSED: [2018-07-20 vi. 13:31]
+*** DONE programación específica de envio de resultados scraping
+    CLOSED: [2018-07-23 lu. 11:11]
+*** TODO Evolutivo Cif-Checker/name-checker
+**** separar clientes por cada portfolio
+**** cada ndg del portfolio es primario, secundario una fila por cada ndg en el resto de carteras
+**** cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
 ** TODO Check SQL for geocoded courts (monika)
 ** TODO Plataforma para Redes Neuronales
 ** TODO Modelos Predictivo
