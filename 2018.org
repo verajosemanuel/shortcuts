@@ -130,12 +130,13 @@
     CLOSED: [2018-07-23 lu. 11:11]
 ** DONE configuracion monitor open spaces mediante CSS animacion
    CLOSED: [2018-07-20 vi. 12:11]
-** TODO Evolutivo Cif-Checker
-*** TODO separar clientes por cada portfolio
-*** TODO cada ndg del portfolio es primario, secundario una fila por cada ndg en el resto de carteras
-*** TODO cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
-** programar subasta martinsa-fadesa para septiembre
+** TODO Evolutivo Cif-Checker<2018-08-15 mi.>
+*** IN-PROGRESS separar clientes por cada portfolio
+*** IN-PROGRESS cada ndg del portfolio es primario, secundario una fila por cada ndg en el resto de carteras
+*** IN-PROGRESS cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
+** TODO programar subasta martinsa-fadesa para septiembre
 ** TODO Check SQL for geocoded courts (monika)
 ** TODO Plataforma para Redes Neuronales
 ** TODO Modelos Predictivo
+
 
