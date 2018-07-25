@@ -135,8 +135,10 @@
 *** IN-PROGRESS cada ndg del portfolio es primario, secundario una fila por cada ndg en el resto de carteras
 *** IN-PROGRESS cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
 ** TODO programar subasta martinsa-fadesa para septiembre
+** TODO Geocode process for PIRENE y TRAMUNTANA
 ** TODO Check SQL for geocoded courts (monika)
 ** TODO Plataforma para Redes Neuronales
 ** TODO Modelos Predictivo
+
 
 
