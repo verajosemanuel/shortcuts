@@ -1,3 +1,4 @@
+* january
 ** DONE Hipoges Portfolio forecasting
    CLOSED: [2018-01-01 lu. 08:11]
 ** DONE Permisos all assets PT pata Valoraciones
@@ -22,6 +23,7 @@
    CLOSED: [2018-01-24 mi. 08:18]
 ** DONE Nuevo tipo de correo Fotocasa Broker Leads
    CLOSED: [2018-01-30 ma. 08:19]
+* february
 ** DONE Permisos MIguel Nunez RE PT Tableau
    CLOSED: [2018-02-01 ju. 08:19]
 ** DONE Mejoras visuales numeros Forecasting
@@ -46,6 +48,7 @@
    CLOSED: [2018-02-26 lu. 08:26]
 ** DONE Nuevo mapa All PT sin islas para Miguel Valoraciones
    CLOSED: [2018-02-28 mi. 08:29]
+* march
 ** DONE Corrección correos Thinkspain Deutsch
    CLOSED: [2018-03-01 ju. 08:30]
 ** DONE Mapa McLaren como SQL
@@ -58,6 +61,7 @@
    CLOSED: [2018-03-23 vi. 08:32]
 ** DONE Inicio Cif Checker app
    CLOSED: [2018-03-30 vi. 08:33]
+* april
 ** DONE Final Cif Checker
    CLOSED: [2018-04-13 vi. 08:33]
 ** DONE Cadastral Finder and Geocoder
@@ -72,6 +76,7 @@
    CLOSED: [2018-04-27 vi. 08:36]
 ** DONE Name Checker app
    CLOSED: [2018-04-30 lu. 08:36]
+* may
 ** DONE Actualizaciones gráficos web Filipe
    CLOSED: [2018-05-03 ju. 08:36]
 ** DONE Cropping PDS David Benitez
@@ -88,6 +93,7 @@
    CLOSED: [2018-05-25 vi. 08:40]
 ** DONE Resultados de Broker Leads a Shiny app
    CLOSED: [2018-05-31 ju. 08:40]
+* june
 ** DONE Modificaciones Geocode Cadastral para Miguel (envío en dos fases)
    CLOSED: [2018-06-07 ju. 08:41]
 ** DONE Tableau Dashboards DB para Monika
@@ -98,6 +104,7 @@
    CLOSED: [2018-06-25 lu. 08:42]
 ** DONE CGD Reader app para Rafael Balthazar
    CLOSED: [2018-06-29 vi. 08:42]
+* july
 ** DONE Nuevo codigo de referencia en Pisos.com (IF) Broker Leads
    CLOSED: [2018-07-05 ju. 08:44]
 ** DONE Report de salida de CGD Reader app (Advogado Armando Castanheira)
@@ -128,7 +135,10 @@
     CLOSED: [2018-07-20 vi. 13:31]
 *** DONE programación específica de envio de resultados scraping
     CLOSED: [2018-07-23 lu. 11:11]
-** DONE configuracion monitor open spaces mediante CSS animacion
+*** DONE adición de nuevos remitentes. tubilleja congosto
+CLOSED: [2018-07-26 ju. 08:26]
+
+** DONE configuracion animacion monitor open spaces 
    CLOSED: [2018-07-20 vi. 12:11]
 ** TODO Evolutivo Cif-Checker<2018-08-15 mi.>
 *** IN-PROGRESS separar clientes por cada portfolio
