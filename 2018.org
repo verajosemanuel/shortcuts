@@ -148,9 +148,13 @@ CLOSED: [2018-07-26 ju. 12:17]
 Los usuarios introducen espacios/tabuladores en el CIF cuando no lo conocen.
 Esto provoca errores. Se impiden en SQL y en la carga misma.
 CLOSED: [2018-07-26 ju. 16:20]
-*** IN-PROGRESS separar clientes por cada portfolio
-*** IN-PROGRESS cada ndg del portfolio es primario, secundario una fila por cada ndg en el resto de carteras
-*** IN-PROGRESS cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
+*** DONE separar clientes por cada portfolio
+CLOSED: [2018-07-27 vi. 14:15]
+*** DONE cada ndg del portfolio es primario, secundario una fila por cada ndg en el resto de carteras
+CLOSED: [2018-07-27 vi. 14:16]
+*** DONE cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
+CLOSED: [2018-07-27 vi. 14:16]
+*** revision del funcionamiento de name-checker
 ** TODO Adicion de enlaces a aplicaciones nuevas en manual procedimientos Data Science
 <2018-07-27 vi.>
 ** TODO Integrar agenda Data Science en Manual 
