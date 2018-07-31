@@ -139,7 +139,7 @@
 CLOSED: [2018-07-26 ju. 08:26]
 
 ** DONE configuracion animacion monitor open spaces 
-   CLOSED: [2018-07-20 vi. 12:11]ç
+   CLOSED: [2018-07-20 vi. 12:11]
 ** DONE encontrado (y resuelto) cuello de botella en CGD Reader PT
 CLOSED: [2018-07-26 ju. 12:17]
 ** IN-PROGRESS Evolutivo Cif-Checker 
@@ -149,21 +149,24 @@ Los usuarios introducen espacios/tabuladores en el CIF cuando no lo conocen.
 Esto provoca errores. Se impiden en SQL y en la carga misma.
 CLOSED: [2018-07-26 ju. 16:20]
 *** DONE separar clientes por cada portfolio
-CLOSED: [2018-07-27 vi. 14:15]
+CLOSED: [2018-07-31 ma. 08:44]
 *** DONE cada ndg del portfolio es primario, secundario una fila por cada ndg en el resto de carteras
 CLOSED: [2018-07-27 vi. 14:16]
 *** DONE cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
 CLOSED: [2018-07-27 vi. 14:16]
-*** revision del funcionamiento de name-checker
-** TODO Adicion de enlaces a aplicaciones nuevas en manual procedimientos Data Science
+*** DONE revision del funcionamiento de name-checker
+CLOSED: [2018-07-31 ma. 08:44]
+** DONE Adicion de enlaces a aplicaciones nuevas en manual procedimientos Data Science
+CLOSED: [2018-07-31 ma. 08:45]
 <2018-07-27 vi.>
+** TODO Cambio en la estructura de las referencias de pisos.com
+SCHEDULED: <2018-07-31 ma.>
 ** TODO Integrar agenda Data Science en Manual 
 <2018-07-30 lu.>
 ** TODO programar subasta martinsa-fadesa para septiembre
-** TODO Geocode process for PIRENE y TRAMUNTANA
+** TODO Geocode process for PIRENE y TRAMUNTANA (petición Monika-Dani)
 ** TODO Check SQL for geocoded courts (monika)
 ** TODO Plataforma para Redes Neuronales
-** TODO Modelos Predictivo
-
+** TODO Modelos Predictivos :ARCHIVE:
 
 
