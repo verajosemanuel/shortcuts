@@ -1,3 +1,4 @@
+
 * january
 ** DONE Hipoges Portfolio forecasting
    CLOSED: [2018-01-01 lu. 08:11]
@@ -136,13 +137,14 @@
 *** DONE programación específica de envio de resultados scraping
     CLOSED: [2018-07-23 lu. 11:11]
 *** DONE adición de nuevos remitentes. tubilleja congosto
-CLOSED: [2018-07-26 ju. 08:26]
+CLOSED: [2018-08-03 vi. 11:39]
 
 ** DONE configuracion animacion monitor open spaces 
    CLOSED: [2018-07-20 vi. 12:11]
 ** DONE encontrado (y resuelto) cuello de botella en CGD Reader PT
 CLOSED: [2018-07-26 ju. 12:17]
-** IN-PROGRESS Evolutivo Cif-Checker 
+** DONE Evolutivo Cif-Checker 
+CLOSED: [2018-08-01 mi. 14:40]
 <2018-08-15 mi.>
 *** DONE Exceso de columnas en carga de datos cif-checker
 Los usuarios introducen espacios/tabuladores en el CIF cuando no lo conocen.
@@ -155,18 +157,24 @@ CLOSED: [2018-07-27 vi. 14:16]
 *** DONE cada combinación de ndg primario-ndg secundario va en una pestaña con el nombre del portfolio
 CLOSED: [2018-07-27 vi. 14:16]
 *** DONE revision del funcionamiento de name-checker
-CLOSED: [2018-07-31 ma. 08:44]
+CLOSED: [2018-08-03 vi. 08:44]
 ** DONE Adicion de enlaces a aplicaciones nuevas en manual procedimientos Data Science
 CLOSED: [2018-07-31 ma. 08:45]
 <2018-07-27 vi.>
-** TODO Cambio en la estructura de las referencias de pisos.com
-SCHEDULED: <2018-07-31 ma.>
+** DONE Cambio en la estructura de las referencias de pisos.com
+CLOSED: [2018-08-01 mi. 14:40] SCHEDULED: <2018-07-31 ma.>
+* august
+** DONE RE MKT Dashboard update
+CLOSED: [2018-08-02 ju. 14:51]
 ** TODO Integrar agenda Data Science en Manual 
 <2018-07-30 lu.>
 ** TODO programar subasta martinsa-fadesa para septiembre
 ** TODO Geocode process for PIRENE y TRAMUNTANA (petición Monika-Dani)
 ** TODO Check SQL for geocoded courts (monika)
 ** TODO Plataforma para Redes Neuronales
-** TODO Modelos Predictivos :ARCHIVE:
+** TODO Modelos Predictivos 
+** TODO mapa de brokers mirar para monika
+** DONE revisar nuevo codigo pisos.com no detectado
+CLOSED: [2018-08-03 vi. 11:39]
 
 
