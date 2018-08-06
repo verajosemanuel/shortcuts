@@ -167,14 +167,14 @@ CLOSED: [2018-08-01 mi. 14:40] SCHEDULED: <2018-07-31 ma.>
 ** DONE RE MKT Dashboard update
 CLOSED: [2018-08-02 ju. 14:51]
 ** TODO Integrar agenda Data Science en Manual 
-<2018-07-30 lu.>
 ** TODO programar subasta martinsa-fadesa para septiembre
 ** TODO Geocode process for PIRENE y TRAMUNTANA (petición Monika-Dani)
 ** TODO Check SQL for geocoded courts (monika)
 ** TODO Plataforma para Redes Neuronales
 ** TODO Modelos Predictivos 
 ** TODO mapa de brokers mirar para monika
-** DONE revisar nuevo codigo pisos.com no detectado
+** DONE revisar nuevo codigo pisos.com (añadieron numeros detrás)
 CLOSED: [2018-08-03 vi. 11:39]
+** TODO generar archivo descargable en cif-checker previo a input_button
 
 
